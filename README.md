@@ -1,6 +1,6 @@
 <div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> Pyrogram v2 Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> 🦋 Pyrogram v2 Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 
 ![f3cece80-a6aa-11eb-97e6-8b3b870b7524 (1)](https://github.com/SudoR2spr/Gen_Session-v2/assets/121882568/3094bd23-5891-4f1f-ae52-92bd9d4c4aeb)
 
